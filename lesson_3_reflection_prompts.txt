@@ -23,7 +23,8 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
+    I would use google drive, pushing and pull would be easier. Know exactly what part of code changed and
+    what conflicts ext would be harder.
     Fill in your answer here
 
 When would you want to make changes in a separate branch rather than directly in
